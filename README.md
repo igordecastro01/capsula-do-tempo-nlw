@@ -1,13 +1,13 @@
 <p align-items='center'>
-  <img src='./Thumbnail.png' alt='Apresentação do Projeto' width='100%'>
+  <img src='./.github/Thumbnail.png' alt='Apresentação do Projeto' width='100%'>
 </p>
 
-## 🖥️ Tecnologias
+### 🖥️ Tecnologias
 
--HTML
--CSS
--Git e GitHub
+-HTML <br>
+-CSS <br>
+-Git e GitHub <br>
 
-## 📙 Sobre
+### 📙 Sobre
 
 O site da Cápsula do Tempo foi criado no NLW Spacetime da Rocketseat para guardar recordações em forma de linha do tempo.
